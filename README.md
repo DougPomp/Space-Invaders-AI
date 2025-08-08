@@ -98,6 +98,21 @@ O agente utiliza **Q-Learning**, um algoritmo de Aprendizado por Reforço. Ele a
 
 ---
 
+## 🎧 Mídia e Recursos Adicionais
+
+Explore mais sobre o projeto através dos recursos abaixo. Para que funcionem, os ficheiros devem estar numa pasta `assets` na raiz do projeto.
+
+* **Resumo em Áudio (MP3):** Ouça uma explicação em áudio sobre a jornada de criação deste projeto.
+    <br>
+    <audio controls>
+      <source src="resumo_audio.mp3" type="audio/mpeg">
+      Seu navegador não suporta o elemento de áudio.
+    </audio>
+* **Documento da Jornada (PDF):** Leia a explicação detalhada sobre os fundamentos e a implementação do jogo e da IA.
+    * [📄 Visualizar o PDF da Jornada](documento_jornada.pdf)
+
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
