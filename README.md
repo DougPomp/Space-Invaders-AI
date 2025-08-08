@@ -45,7 +45,7 @@ Certifique-se de ter o Python 3 instalado.
 ### 2. Clone o Repositório
 
 ```bash
-git clone [https://github.com/DougPomp/Space-Invaders-AI.git](https://github.com/DougPomp/Space-Invaders-AI.git)
+git clone https://github.com/DougPomp/Space-Invaders-AI.git
 cd Space-Invaders-AI
 ```
 
